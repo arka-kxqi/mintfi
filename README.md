@@ -86,3 +86,5 @@ const transfer = await wallet.transfer({
     amount: ethers.parseEther("1.0"),
 });
 ```
+### How Zulu works:
+![image](https://github.com/user-attachments/assets/cd632ad2-7811-4859-bb12-0a91c77698ad)
